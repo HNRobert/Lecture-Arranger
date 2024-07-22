@@ -1,2 +1,3 @@
 # Lecture-Arranger
- An app designed for school teachers to quickly generate a feasible time table
+
+ This is a app designed to help school administrators to arrange lectures' time table for a whole grade, or more.\n  It supports various arranging styles, and can generate/export the time table into xlsx files in a second.
